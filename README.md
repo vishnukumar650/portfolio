@@ -1,5 +1,7 @@
 # Vishnu Kumar
 
+![Vishnu Kumar](https://lh3.googleusercontent.com/ogw/ADGmqu8pf6xuS5iZmgafzV3w79y75dFREQSPLKdPb_AOeA=s83-c-mo)
+
 This is my portfolio website, which contains various *feets and achievements* I made so far in my life
 
 **About me**
