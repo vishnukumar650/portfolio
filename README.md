@@ -41,14 +41,16 @@ Educational Qualifications:
 ```c
 #include<stdio.h>
 int main(){
-    printf("Hello World");
+    printf("Hello Visitor");
 }
 
 ```
 
 ```javascript
-var name="Hello World";
+var name="Hello Visitor";
 console.log(name);
 ```
+
+[*Know more about me!*](https://www.restcomputers.com)
 
 > Keep smiling and work harder
