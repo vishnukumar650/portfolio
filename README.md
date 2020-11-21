@@ -46,4 +46,7 @@ int main(){
 
 ```javascript
 var name="Hello World";
-console.log(name);```
+console.log(name);
+```
+
+> Keep smiling and work harder
