@@ -1,8 +1,3 @@
-# Sample Website
+# Vishnu Kumar
 
-This is a sample website made as part of [*Learn Enough Git to Be Dangerous*](http://learnenough.com/git-tutorial), possibly the greatest beginner Git tutorial in the history of the Universe. You should totally [check it out](https://learnenough.com/git-tutorial), and be sure to [join the email list](https://learnenough.com/#email_list) and
-
-[follow us on Twitter](https://twitter.com/vishnukumar650)
-
-
-[*follow me on instagram*](https"//www.instagram.com/vishnukumar650)
+This is my portfolio website, which contains various *feets and achievements* I made so far in my life
