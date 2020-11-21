@@ -6,4 +6,10 @@ This is my portfolio website, which contains various *feets and achievements* I 
 
 I am a *Full Stack Web Developer*, *Ethical Hacker*, and *Machine Learning Expert*
 
-I love to ```code```
+I love to ```code``` in C, Java, and Python...!!!
+
+
+Educational Qualifications:
+
+|College|Degree|YOP|
+|---|---|---|
