@@ -41,7 +41,7 @@ Educational Qualifications:
     - Cyber Security, Ethical Hacking
 ***
 
-** My way of saying Hello in Various Programming Languages **
+**My way of saying Hello in Various Programming Languages**
 
 ```c
 #include<stdio.h>
