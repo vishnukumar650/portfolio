@@ -38,8 +38,9 @@ Educational Qualifications:
     - Cyber Security, Ethical Hacking
 ***
 
-```
+```c
 #include<stdio.h>
 int main(){
     printf("Hello World");
 }
+
