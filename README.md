@@ -26,5 +26,6 @@ Educational Qualifications:
     2. Prathiba Award for Securing Good Percent in Diploma Exams
     3. District Level Winner of TekHack, Anantapur by IBM
     4. Android Competition Winner Robosapiens
+    5. Hero of Competitions
 
 ***
