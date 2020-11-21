@@ -25,5 +25,6 @@ Educational Qualifications:
     1. Third Prize in InCTF, organized by India's No. 1 CTF Team
     2. Prathiba Award for Securing Good Percent in Diploma Exams
     3. District Level Winner of TekHack, Anantapur by IBM
+    4. Android Competition Winner Robosapiens
 
 ***
