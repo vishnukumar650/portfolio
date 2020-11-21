@@ -37,3 +37,9 @@ Educational Qualifications:
     - HTML, CSS, Javascript
     - Cyber Security, Ethical Hacking
 ***
+
+```
+#include<stdio.h>
+int main(){
+    printf("Hello World");
+}
