@@ -13,3 +13,4 @@ Educational Qualifications:
 
 |College|Degree|YOP|
 |---|---|---|
+|JNTUA College of Engineering Pulivendula| B.Tech in Computer Science & Engineering|2019|
