@@ -42,8 +42,8 @@ Educational Qualifications:
 #include<stdio.h>
 int main(){
     printf("Hello World");
-}
+}```
 
 ```javascript
 var name="Hello World";
-console.log(name);
+console.log(name);```
