@@ -5,3 +5,5 @@ This is my portfolio website, which contains various *feets and achievements* I 
 **About me**
 
 I am a *Full Stack Web Developer*, *Ethical Hacker*, and *Machine Learning Expert*
+
+I love to ```code```
