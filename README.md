@@ -14,3 +14,5 @@ Educational Qualifications:
 |College|Degree|YOP|
 |---|---|---|
 |JNTUA College of Engineering Pulivendula| B.Tech in Computer Science & Engineering|2019|
+|Government Polytechnic| Diploma in Computer Engineering| 2016|
+|Jeevananda English Medium High School| SSC | 2013 |
