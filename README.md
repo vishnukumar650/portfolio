@@ -29,3 +29,11 @@ Educational Qualifications:
     5. Hero of Competitions
 
 ***
+
+**Skills**
+
+***
+    - C, Java, Python
+    - HTML, CSS, Javascript
+    - Cyber Security, Ethical Hacking
+***
