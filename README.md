@@ -44,3 +44,6 @@ int main(){
     printf("Hello World");
 }
 
+```javascript
+var name="Hello World";
+console.log(name);
